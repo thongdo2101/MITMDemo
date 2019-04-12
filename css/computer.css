@@ -27,7 +27,7 @@ a {
 a:hover {
   text-decoration: underline;
 }
-@media screen and (min-width: 481px) {
+@media screen and (min-width: 769px) {
   input:focus {
     outline: none;
   }
