@@ -1,8 +1,9 @@
 # fb-login-page-clone
 
-https://pranavks.github.io/fb-ui-clone/
-
 A responsive clone of Facebook login page using HTML & CSS for computer screen and mobile screen.
+
+View it here :  
+https://pranavks.github.io/fb-ui-clone/
 
 Demo video :  
 ![](demo.gif)  
