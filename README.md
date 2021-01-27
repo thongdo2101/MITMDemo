@@ -2,6 +2,10 @@
 
 A responsive clone of Facebook login page using HTML & CSS for computer screen and mobile screen.
 
+[Inviting Contributions]
+It was my very first practice work while i was learning as a beginner. So there can be flaws it. Contributions on improving the overall code are welcome, as it will help others, and you ofcourse!
+(NB: Use only HTML, CS & JS. No bootstrap or other fancy stuffs.)
+
 View it here :  
 https://pranavks.github.io/fb-ui-clone/
 
