@@ -1,14 +1,13 @@
 var express = require("express");
 var cors = require("cors")
 var fs = require("fs");
-
 var app = express();
 
 app.use(cors())
 app.use(express.static("static"))
 
 app.post("/victims", (req, res, next) => {
-    console.log(req.body)
+    console.log(req.query)
     res.send("got you!!!")
 });
 
