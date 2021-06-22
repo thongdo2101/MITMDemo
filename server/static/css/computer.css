@@ -13,7 +13,7 @@ body {
 }
 @font-face {
   font-family: 'Freight Sans Medium';
-  src: url('fonts/Freight Sans Medium.otf');
+  src: url('/fonts/Freight Sans Medium.otf');
 }
 .clearfix::after {
   content: "";
